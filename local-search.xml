@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>MYSQL01</title>
+    <link href="/2020/02/24/MYSQL01/"/>
+    <url>/2020/02/24/MYSQL01/</url>
+    
+    <content type="html"><![CDATA[<h1 id="MYSQL数据库"><a href="#MYSQL数据库" class="headerlink" title="MYSQL数据库"></a>MYSQL数据库</h1><h2 id="第一部分"><a href="#第一部分" class="headerlink" title="第一部分"></a>第一部分</h2><h4 id="第一节：-数据库简介"><a href="#第一节：-数据库简介" class="headerlink" title="第一节： 数据库简介"></a>第一节： 数据库简介</h4><blockquote><p> 数据库（Databaswe）是按照数据结构来组织，存储和<strong>管理数据的仓库</strong>。</p></blockquote><h4 id="第二节-：显示所有数据库"><a href="#第二节-：显示所有数据库" class="headerlink" title="第二节 ：显示所有数据库"></a>第二节 ：显示所有数据库</h4><blockquote><p> Show  databases</p></blockquote><h4 id="第三节-：创建数据库"><a href="#第三节-：创建数据库" class="headerlink" title="第三节 ：创建数据库"></a>第三节 ：创建数据库</h4><blockquote><p> Create database  数据库名</p></blockquote><h4 id="第四节：删除数据库"><a href="#第四节：删除数据库" class="headerlink" title="第四节：删除数据库"></a>第四节：删除数据库</h4><blockquote><p> Drop  database 数据库名</p></blockquote><h2 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h2><h4 id="第一节：创建表"><a href="#第一节：创建表" class="headerlink" title="第一节：创建表"></a>第一节：创建表</h4><blockquote><p> 表示数据库存储数据的基本单位。一个表包含若干字段或记录。</p></blockquote><p><strong>语法 ：</strong></p><p>CREATE TABLE 表名 ( 属性名 数据类型 [完整性约束条件]，<br>CREATE TABLE 表名(属性名 数据类型 [完整性约束条件]，<br>.<br>.<br>.<br>CREATE TABLE 表名(属性名 数据类型 [完整性约束条件] </p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Test1</title>
     <link href="/2020/02/22/Test1/"/>
     <url>/2020/02/22/Test1/</url>
