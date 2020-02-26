@@ -10,10 +10,10 @@ body {
   color: #0080ff;
 }
 body a {
-  color: #blue;
+  color: ＃00dffc;
 }
 body a:hover {
-  color: #1abc9c;
+  color: blue;
 }
 .hover-with-bg {
   display: inline-block;
@@ -533,7 +533,7 @@ h6::before {
 }
 .tocbot-active-link {
   font-weight: 600;
-  color: #1abc9c;
+  color: blue;
 }
 .tocbot-is-collapsible {
   max-height: 1000px;
@@ -602,5 +602,5 @@ h6::before {
   font-weight: 350;
 }
 .tagcloud a:hover {
-  color: #1abc9c !important;
+  color: blue !important;
 }
