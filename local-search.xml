@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>java01</title>
+    <link href="/Java.html"/>
+    <url>/Java.html</url>
+    
+    <content type="html"><![CDATA[<h1 id="001"><a href="#001" class="headerlink" title="001"></a>001</h1><h2 id="002"><a href="#002" class="headerlink" title="002"></a>002</h2><h2 id="003"><a href="#003" class="headerlink" title="003"></a>003</h2>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Java笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>MYSQL01</title>
     <link href="/MYSQL01.html"/>
     <url>/MYSQL01.html</url>
